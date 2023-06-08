@@ -1,0 +1,14 @@
+Org_Name,Repo_Name,Is_Empty,Last_Push,Last_Update,isFork,Repo_Size(mb),Record_Count,Collaborator_Count,Protected_Branch_Count,PR_Review_Count,Milestone_Count,Issue_Count,PR_Count,PR_Review_Comment_Count,Commit_Comment_Count,Issue_Comment_Count,Issue_Event_Count,Release_Count,Project_Count,Branch_Count,Tag_Count,Discussion_Count,Has_Wiki,Full_URL,Migration_Issue
+github-cloud-server,android-kotlin-project,false,2023-06-08T07:08:08Z,2023-06-08T07:08:41Z,false,0,31,1,1,4,0,3,6,0,0,2,13,1,0,5,2,0,true,https://github.com/Github-Cloud-Server/Android-Kotlin-Project,FALSE
+github-cloud-server,angular_project_1,false,2023-06-08T07:09:05Z,2023-06-08T07:09:22Z,false,2,21,1,0,0,2,5,2,0,0,2,6,0,3,4,0,0,true,https://github.com/Github-Cloud-Server/Angular_Project_1,FALSE
+github-cloud-server,angular_samplecode,false,2023-06-07T13:56:53Z,2023-06-07T13:57:11Z,false,0,12,1,0,0,0,1,4,0,0,1,5,0,0,5,0,0,true,https://github.com/Github-Cloud-Server/Angular_SampleCode,FALSE
+github-cloud-server,asthag.github.io,false,2023-06-07T14:49:45Z,2023-06-07T14:50:22Z,false,0,3,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,true,https://github.com/Github-Cloud-Server/asthag.github.io,FALSE
+github-cloud-server,branch-protection-na,false,2023-06-08T07:12:43Z,2023-06-08T07:13:29Z,false,0,4,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,true,https://github.com/Github-Cloud-Server/Branch-Protection-NA,FALSE
+github-cloud-server,commit-comment,false,2023-06-08T07:56:12Z,2023-06-08T07:57:00Z,false,0,4,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,true,https://github.com/Github-Cloud-Server/Commit-comment,FALSE
+github-cloud-server,e-commerce,false,2023-06-08T07:07:09Z,2023-06-08T07:07:21Z,false,7,25,1,0,0,2,6,4,0,0,4,7,0,1,3,0,0,true,https://github.com/Github-Cloud-Server/E-commerce,FALSE
+github-cloud-server,github-pages,false,2023-06-07T14:49:17Z,2023-06-07T14:49:48Z,false,0,3,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,true,https://github.com/Github-Cloud-Server/Github-Pages,FALSE
+github-cloud-server,java-project,false,2023-06-07T13:52:49Z,2023-06-07T13:53:28Z,false,0,3,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,true,https://github.com/Github-Cloud-Server/JAVA-Project,FALSE
+github-cloud-server,maven_project_withactions,false,2023-06-07T14:49:31Z,2023-06-07T14:49:24Z,false,0,6,1,0,0,0,1,1,0,0,1,1,1,0,2,0,0,true,https://github.com/Github-Cloud-Server/Maven_Project_WithActions,FALSE
+github-cloud-server,online-shopping-system-advanced_php,false,2023-06-08T07:08:19Z,2023-06-08T07:08:31Z,false,21,21,1,0,0,2,5,3,0,0,4,5,0,1,4,0,0,true,https://github.com/Github-Cloud-Server/online-shopping-system-advanced_php,FALSE
+github-cloud-server,python_project,false,2023-06-08T07:06:51Z,2023-06-08T07:07:00Z,false,1,41,1,0,0,5,7,7,0,0,1,19,0,1,5,0,0,true,https://github.com/Github-Cloud-Server/Python_project,FALSE
+github-cloud-server,react-unittesting-project,false,2023-06-07T13:53:50Z,2023-06-07T13:54:28Z,false,6,3,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,true,https://github.com/Github-Cloud-Server/React-unitTesting-project,FALSE
